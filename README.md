@@ -2,47 +2,36 @@
 
 ## About Me
 
-I am an aspiring DevOps Engineer based in South Africa with a background in engineering, entrepreneurship, and cloud technologies.
+I'm based in Cape Town, South Africa, transitioning into cloud infrastructure and DevOps. My background combines engineering education, entrepreneurship, and hands-on cloud and DevOps projects.
 
-I am currently building hands-on experience with:
+I hold AWS Certified Solutions Architect – Associate and AWS Certified Cloud Practitioner certifications. Through structured learning and practical labs, I've completed projects involving cloud infrastructure, application deployment, containerisation, Kubernetes, and CI/CD.
 
-* AWS
-* Docker
-* Kubernetes
-* Jenkins
-* Terraform
-* Linux
-* Git
+I'm continuing to strengthen my technical skills and refresh my project knowledge as I prepare for cloud and DevOps opportunities.
 
-## Education
+## Technologies & Tools
 
-* HND, Electrical/Electronics Engineering
+- **Cloud:** AWS
+- **Containers & Orchestration:** Docker, Kubernetes
+- **CI/CD & Version Control:** Jenkins, Git, GitHub
+- **Infrastructure as Code:** Terraform
+- **Operating Systems & Scripting:** Linux, Bash
+- **Monitoring & Observability:** Prometheus, Grafana
 
-## Certifications
+## Hands-on Projects
 
-* AWS Certified Cloud Practitioner
-* AWS Certified Solutions Architect – Associate
+My repositories document practical exercises and projects as I build and reinforce my skills in cloud infrastructure and DevOps.
 
-## Current Learning
+🔗 **Explore my Kubernetes labs:**  
+https://github.com/ukoeno/kubernetes-labs
 
-* Kubernetes (Minikube, kOps)
-* Container Orchestration
-* CI/CD Pipelines
-* Infrastructure as Code
+## Current Focus
 
-## Featured Repositories
+- Strengthening Kubernetes fundamentals and troubleshooting
+- Reviewing AWS architecture and cloud infrastructure
+- Practising Infrastructure as Code and CI/CD workflows
+- Improving my ability to explain technical decisions and project implementations
 
-* DevOps Learning Journal
-* Kubernetes Labs
-* Jenkins Pipelines
-* AWS Projects
+## Connect with Me
 
-## Goals
-
-* Land my first DevOps Engineer role
-* Build production-style cloud and automation projects
-* Continuously document lessons learned and troubleshooting experiences
-
-## Connect With Me
-
-* LinkedIn:  [Eno Ukom](https://www.linkedin.com/in/enoukom)
+- **LinkedIn:** https://www.linkedin.com/in/enoukom/
+- **Location:** Cape Town, South Africa
